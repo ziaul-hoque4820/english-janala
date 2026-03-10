@@ -6,17 +6,16 @@
 
 ## 🔗 Live Demo
 
-**[👉 Live Site Link Here](https://ziaul-hoque4820.github.io/english-janala/)** 
-**[📂 Repository](https://github.com/ziaul-hoque4820/english-janala.git)**
+**[👉 Live Site Link Here](https://ziaulhoquepatwary.github.io/english-janala/)** 
+**[📂 Repository](https://github.com/ziaulhoquepatwary/english-janala.git)**
 
 ---
 
 ## 📸 Screenshots
 
-> *(Screenshots will be added here)*
 
-| Home Page | Word Cards | Word Detail Modal |
-|:---------:|:----------:|:-----------------:|
+| Home Page | Word Cards |
+|:---------:|:----------:|
 | ![Home](./assets/home-page.jpg) | ![Cards](./assets/card.jpg) 
 
 ---
@@ -76,7 +75,7 @@ No build tools or dependencies required. Just clone and open in a browser.
 
 ```bash
 # Clone the repository
-git clone https://github.com/ziaul-hoque4820/english-janala.git
+git clone https://github.com/ziaulhoquepatwary/english-janala.git
 
 # Navigate into the folder
 cd english-janala
@@ -86,19 +85,6 @@ open index.html
 ```
 
 > **Note:** The Speech API requires a modern browser (Chrome, Edge, Firefox). Live server (e.g. VS Code Live Server) is recommended for best experience.
-
----
-
-## 🔌 API Reference
-
-All data is fetched from the [Programming Hero Open API](https://openapi.programming-hero.com):
-
-| Endpoint | Description |
-|---|---|
-| `GET /api/levels/all` | Fetch all lesson levels |
-| `GET /api/level/{id}` | Fetch words for a specific lesson |
-| `GET /api/word/{id}` | Fetch details of a single word |
-| `GET /api/words/all` | Fetch all words (used for search) |
 
 ---
 
@@ -126,8 +112,8 @@ All data is fetched from the [Programming Hero Open API](https://openapi.program
 ## 🙋‍♂️ Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/ziaul-hoque4820)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/ziaul-hoque-patwary-a0a546324/)
+- GitHub: [ziaulhoquepatwary](https://github.com/ziaulhoquepatwary)
+- LinkedIn: [ziaulhoquepatwary](https://www.linkedin.com/in/ziaulhoquepatwary/)
 
 ---
 
